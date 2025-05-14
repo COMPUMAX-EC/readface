@@ -1,6 +1,6 @@
 # Ignorar datasets y modelos pesados
 Data/
-model/
+
 
 # Archivos generados por Python
 __pycache__/
