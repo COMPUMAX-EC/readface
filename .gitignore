@@ -1,0 +1,16 @@
+# Ignorar datasets y modelos pesados
+Data/
+model/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de entorno virtual
+venv/
+.env/
+
+# Archivos comunes de sistema
+.DS_Store
+Thumbs.db
